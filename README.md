@@ -40,25 +40,21 @@ trololotrololotrololotrololotrololotrololotrololotrololotrololotrololotrololotro
 
 trololotrololotrololotrololotrololotrololotrololotrololotrololotrololotrololotrololo
 
-----
+---
 
-### 🔭 I’m currently working on:
-
-* trololo
-* trololo
-* trololo
-
-----
-
-### 🌱 I’m currently learning:
+## 🔭 I’m currently working on:
 
 * trololo
 * trololo
 * trololo
 
-----
+## 🌱 I’m currently learning:
 
-### ⚡ Fun facts:
+* trololo
+* trololo
+* trololo
+
+## ⚡ Fun facts:
 
 * trololo
 * trololo
