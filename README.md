@@ -19,60 +19,42 @@
     </a>
 </div>
 
-## Hi, I'm Victor 👋
+## Hey, I'm Victor <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"/>
 
 <p align="center">
-~ trololotrololotrololotrololotrololotrololotrololotrololo ⚛️🌎
+~ "Stay Hungry. Stay Foolish." 🌎
 </p>
 
-----
+----   
 
-<div align="right">
-     <a href="https://github.com/victorbrayner">
-        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorbrayner&hide=html&layout=compact&&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21"
-        alt="Linguagens mais usadas" align="right">
-    </a>
-</div>
 
-<div>        <p>trololotrololotrololotrololotrololotrololotrololotrololotrololotrololotrololotrololotrololotrololotrololotrololotrololotrololotrololotrololotrololotrololotrololotrololo</p>
-<p>trololotrololotrololotrololotrololotrololotrololotrololotrololotrololotrololotrololotrololotrololotrololotrololotrololotrololotrololotrololo</p>
-<p>trololotrololotrololotrololotrololotrololotrololotrololotrololotrololotrololotrololo</p>
-</div>
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorbrayner&hide=html&layout=compact&&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Linguagens mais usadas" align="right">
+
+<p>Born and raised in the Northeast region of Brazil, I'm 26 years old and currently I'm a front-end developer and programming instructor.</p>  
+<p>In addition to being addicted to reading and cycling, I also help people migrate to IT through mentoring.</p>
+<p>My previous experiences have allowed me to see how the world is in a constant state of change and, even more importantly, have allowed me to become an agent of change itself.</p>
 
 ---
 
-## 🔭 I’m currently working on:
+## 🔭 I’m currently working with:
 
-* trololo
-* trololo
-* trololo
+* Vue.js
+* SASS/SCSS
+* Agile Methodologies
 
 ## 🌱 I’m currently learning:
 
-* trololo
-* trololo
-* trololo
+* Jest
+* Next.js
+* CI/CD
+* TypeScript
 
 ## ⚡ Fun facts:
 
-* trololo
-* trololo
+* When I was a kid I read my first storybook upside down and got used to reading it that way over time
+* I've traveled over 4000 kilometers to meet a girlfriend
+* I started working in the IT area in the HR department and until today I think it was a great idea
 
 ---
 
-<p align="center"> Feel free to trololo </p>
-
-<!--
-**victorbrayner/victorbrayner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center"> Welcome to my world and feel free to reach me! </p>
