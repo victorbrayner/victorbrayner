@@ -11,7 +11,7 @@
     <a target='_blank' href="https://medium.com/jornada-de-dev">
         <img src="https://img.shields.io/badge/medium-grey?style=for-the-badge&logo=medium&logoColor=white">
     </a>
-    <a target='_blank' href="https://www.youtube.com/user/braynervictor">
+    <a target='_blank' href="https://www.youtube.com/@JornadaDeDev">
         <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
     </a>
     <a target='_blank' href="mailto:victor@brayner.dev">
@@ -30,7 +30,7 @@
 
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorbrayner&hide=html&layout=compact&&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Linguagens mais usadas" align="right">
 
-<p>Born and raised in the Northeast region of Brazil, I'm 26 years old and currently I'm a front-end developer and programming instructor.</p>  
+<p>Born and raised in the Northeast region of Brazil, I'm 27 years old and currently I'm a front-end developer and programming instructor.</p>  
 <p>In addition to being addicted to reading and cycling, I also help people migrate to IT through mentoring.</p>
 <p>My previous experiences have allowed me to see how the world is in a constant state of change and, even more importantly, have allowed me to become an agent of change itself.</p>
 
